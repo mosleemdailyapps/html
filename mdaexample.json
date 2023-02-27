@@ -1,0 +1,63 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+       "More": [
+    {
+      "title": "Fake Chat for WA",
+      "image": "https://play-lh.googleusercontent.com/mFZ5YRnlq0YsPyIEphae-SPiQcSli2kiJmTeqd0zXif1l0GDTyOwC0d32tJAarfEhCLS=w416-h235",
+      "link": "https://play.google.com/store/apps/details?id=com.fakeaccounttwitter.faketweet"
+    },
+    {
+      "title": "Astronomi Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/1vfgl6JbF0GnvongLJkj4HFo_Lxn6-YCddksiJp_StjNHBYK0cgj6YR7VyTc8d_Z_XU=w416-h235",
+      "link": "https://play.google.com/store/apps/details?id=com.randomimage.astronomypicture"
+    },
+    {
+      "title": "Alien Skin Minecraft (MOD)",
+      "image": "file:///android_asset/image/insta.webp",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.fakeinstagram"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Ayat",
+      "image": "https://play-lh.googleusercontent.com/cgSaQoRm2VI7Ugirpm3av_HNSYiECdRXfdk6t-gCLlzYiCBqWhraXCajpPFL_y41ow"
+    },
+    {
+      "id": 2,
+      "name_category": "Doa",
+      "image": "https://lh3.ggpht.com/VG0Xvqj5L0UN_gXLB-iWKrBBCLDVsRSoK1WGHfHizbYEVSOOBYEPNfiyOjhF5ZLjhw"
+    } 
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Ayat",
+      "title": "Surah Al-Waqiah",
+      "type_file": "HTML",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "contoh,
+      "link": "file:///android_asset/kontennya/alwaqiah/indexarablatin.html"
+    } 
+  ]
+}
